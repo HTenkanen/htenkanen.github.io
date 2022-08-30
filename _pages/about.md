@@ -10,7 +10,7 @@ redirect_from:
 
 ![Europe transit map](Europe_transit.png)
 
-Hello! Welcome to my personal website. I am currently an Assistant Professor of Geoinformation Technology at the [Department of Built Environment](https://www.aalto.fi/en/department-of-built-environment), Aalto University (Finland). At Aalto, I am a member of [Geoinformatics Research group](https://www.aalto.fi/en/department-of-built-environment/geoinformatics), and I lead GIST Lab that advances research, teaching and open-source scientific software development around a variety of topics, such as:
+Hello, and welcome to my personal website! On these pages, I share primarily work-related content and news. I am currently an Assistant Professor of Geoinformation Technology at the [Department of Built Environment](https://www.aalto.fi/en/department-of-built-environment), Aalto University (Finland). At Aalto, I am a member of [Geoinformatics Research group](https://www.aalto.fi/en/department-of-built-environment/geoinformatics), and I lead the GIST Lab that advances research, teaching and open-source scientific software development around a variety of topics, such as:
 - spatial accessibility and mobility analysis related to sustainable urban development and mobility, 
 - understanding human activities in natural and urban environments based on user-generated content, such as social media data,
 - sustainable use of water resources and the design of water resources policies, and
