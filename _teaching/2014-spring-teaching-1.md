@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: 
 venue: "Aalto University"
-date: 2020-
+date: 
 location: 
 ---
 
