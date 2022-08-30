@@ -10,7 +10,7 @@ redirect_from:
 
 ![Europe transit map](Europe_transit.png)
 
-Hello, and welcome to my personal website! On these pages, I share primarily work-related content and news. I am currently an Assistant Professor of Geoinformation Technology at the [Department of Built Environment](https://www.aalto.fi/en/department-of-built-environment), Aalto University (Finland). 
+Hello, and welcome to my personal website! On these pages, I share primarily work-related content and news. I am currently an Assistant Professor of Geoinformation Technology at the [Department of Built Environment](https://www.aalto.fi/en/department-of-built-environment), Aalto University (Finland). I am also an adjunct professor (a Title of Docent) at the Faculty of Science, University of Helsinki, as well as, an Honorary Research Fellow at the Centre for Advanced Spatial Analysis (CASA), University College London. 
 
 ### Research
 
