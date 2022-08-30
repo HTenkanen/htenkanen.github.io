@@ -3,7 +3,7 @@ title: "Book: Introduction to Python for Geographic Data Analysis (2023)"
 collection: teaching
 type: "Textbook"
 permalink: /teaching/pythongis-book
-venue: "Aalto University"
+venue: 
 date: 2023-12-31
 location: 
 ---
