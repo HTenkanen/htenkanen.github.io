@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Henrikki Tenkanen"
 title_separator          : "-"
 name                     : &name "Henrikki Tenkanen"
-description              : &description "Assistant Professor, Aalto University"
+description              : &description "Assistant Professor, Geoinformation Technology, Aalto University"
 url                      : https://htenkanen.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "htenkanen/htenkanen.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Henrikki Tenkanen"
   avatar           : "Henrikki-2021-cropped-2.jpg"
-  bio              : "Assistant Professor, Aalto University"
+  bio              : "Assistant Professor, Geoinformation Technology, Aalto University"
   location         : "Helsinki / Espoo, Finland"
   employer         : "Aalto University"
   pubmed           : 
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Helsinki # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
