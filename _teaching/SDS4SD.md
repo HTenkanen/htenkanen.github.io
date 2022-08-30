@@ -2,7 +2,7 @@
 title: "Spatial Data Science for Sustainable Development (2021-)"
 collection: teaching
 type: "MSc course"
-permalink: teaching
+permalink: teaching/Sustainability-GIS
 venue: "Aalto University"
 date: 2022-10-01
 location: 
@@ -11,6 +11,8 @@ location:
 ![SDS4SD banner](sustainability-sds-banner.jpg)
 
 **Spatial data science for sustainable development** -course introduces geographical and computational analysis approaches to study sustainability related questions. The course is inspired by the United Nation’s 2030 Agenda for Sustainable Development and the Global Sustainable Development Report, as well as numerous scientific articles that have investigated sustainability related problems through the lense of geospatial analytics. 
+
+![Idea of the course](course-idea.png)
 
 ### Learning goals
 
