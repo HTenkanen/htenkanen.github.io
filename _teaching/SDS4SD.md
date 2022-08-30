@@ -25,6 +25,6 @@ After completing this course, you should:
 
 ### The course materials are openly available online
 
-All materials are openly available online, see http://sustainability-gis.readthedocs.org/ 
+All materials are openly available online, see [http://sustainability-gis.readthedocs.org/](http://sustainability-gis.readthedocs.org)
 
 
