@@ -25,13 +25,15 @@ At Aalto, I am a member of [Geoinformatics Research group](https://www.aalto.fi/
 
 I am part of the development team of the open source library `r5py` for multimodal spatial network analysis in Python; and I have created `pyrosm`, a small Python package to extract geospatial information from OpenStreetMap dump files. In addition, I have contributed to some of the core Python libraries for geospatial analysis and computation, such as `geopandas` and `osmnx`. 
 
+You can read more about these libraries from [software -section](https://htenkanen.org/software/).
+
 ### Teaching
 
 I have authored and maintain a bunch of educational materials targeted for Python users including four openly available online courses and one text book. You can read more about these from [teaching -section.](https://htenkanen.org/teaching/)
 
 ### Projects
 
-Me and my colleagues are working on various research and educational projects. You can read more about them from [projects -sections](https://htenkanen.org/projects/).
+Me and my colleagues are working on various research and educational projects. You can read more about them from [projects -section](https://htenkanen.org/projects/).
 
 ### Contact
 
