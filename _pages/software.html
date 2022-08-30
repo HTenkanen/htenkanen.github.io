@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Software"
+permalink: /software/
+author_profile: true
+---
+
+<p> I have created and contributed to a few open source scientific libraries for Python programming language. You can find more information about these libraries below,
+    as well as about what has been my role in them. </p>
+
+{% include base_path %}
+
+{% for post in site.software reversed %}
+  {% include archive-single.html %}
+{% endfor %}
