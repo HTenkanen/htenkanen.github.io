@@ -15,10 +15,11 @@ Hello, and welcome to my personal website! On these pages, I share primarily wor
 ### Research
 
 At Aalto, I am a member of [Geoinformatics Research group](https://www.aalto.fi/en/department-of-built-environment/geoinformatics), and I lead the GIST Lab that advances research, teaching and open-source scientific software development around a variety of topics, such as:
-- spatial accessibility and mobility analysis related to sustainable urban development and mobility, 
-- understanding human activities in natural and urban environments based on user-generated content, such as social media data,
-- sustainable use of water resources and the design of water resources policies, and
-- cypersecurity and open spatial data
+- GIScience 
+- Spatial accessibility and mobility analysis related to sustainable urban development and mobility, 
+- Understanding human activities in natural and urban environments based on user-generated content, such as social media data,
+- Sustainable use of water resources and the design of water resources policies, and
+- Cypersecurity around open spatial data
 
 ### Software for advancing open science
 
