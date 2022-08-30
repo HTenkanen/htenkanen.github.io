@@ -1,8 +1,8 @@
 ---
-title: "Teaching experience 1"
+title: "Spatial Data Science for Sustainable Development (2021- )"
 collection: teaching
 type: "Undergraduate course"
-permalink: 
+permalink: http://sustainability-gis.readthedocs.org/
 venue: "Aalto University"
 date: 2022-10-01
 location: 
