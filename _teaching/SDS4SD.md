@@ -2,7 +2,7 @@
 title: "Spatial Data Science for Sustainable Development (2021-)"
 collection: teaching
 type: "MSc course"
-permalink: sustainability-GIS
+permalink: teaching
 venue: "Aalto University"
 date: 2022-10-01
 location: 
