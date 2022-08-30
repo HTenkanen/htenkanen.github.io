@@ -29,3 +29,41 @@ redirect_from:
 - 2022-   Adjunct Professor (The Title of Docent), Faculty of Science, University of Helsinki
 - 2020-   Honorary Research Fellow, The Centre for Advanced Spatial Analysis, University College London
 
+## Other appointments
+
+- 2021-2022  Deputy director of Master's programme in Geoinformatics, Aalto University
+- 2019-      Member of Young Academy Finland
+- 2019-2021  Board member and leader of Open Science working group, Young Academy Finland
+- 2020       Representative of the Council of Finnish Academies in an international working group of InterAcademy Partnership (IAP) contributing to UNESCO's Recommendation on Open Science
+
+## Previous work experience
+
+- 1/2020-08/2020  Postdoctoral researcher, University College London (UCL), Centre for Advanced Spatial Analysis (CASA)
+- 1/2019-12/2019  Postdoctoral researcher, University College London (UCL), Geospatial Analytics and Computing Research Group
+- 1/2018-12/2018  Postdoctoral researcher, University of Helsinki, Digital Geography Lab
+- 1/2014-12/2017  Doctoral researcher, University of Helsinki, Digital Geography Lab
+
+## Teaching
+
+See [https://htenkanen.org/teaching/](https://htenkanen.org/teaching/).
+
+## Supervision
+
+**Postdoctoral researchers**
+
+- 2021- Josias Láng-Ritter, Aalto University (co-supervising with Assoc. Prof. Marko Keskinen)
+- 2022- Tiina Rinne, Aalto University (co-supervising with Prof. Marketta Kyttä)
+
+**PhD**
+
+- 2018- Elias Willberg, University of Helsinki (co-supervising with Prof. Tuuli Toivonen) 
+- 2021- Teemu Jama, Aalto University (co-supervising with Prof. (practice) Anssi Joutsiniemi)
+- 2022- Christian Koski, National Land Survey/Aalto University
+
+## Awards and honors
+
+- 2020  Best online course for learning Geospatial Data Science by Towards Data Science
+- 2018  ProGIS association of Finland: thesis prize for the best PhD thesis  
+- 2017  Best paper/talk at DENVI Annual Meeting 
+- 2017  Annual prize from Association of Planning Geographers: Mapple-Accessibility Planner 
+- 2014  Apps4Finland award: Helsinki Region Travel Time Matrix -dataset. 
