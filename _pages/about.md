@@ -31,7 +31,7 @@ I have authored and maintain a bunch of educational materials targeted for Pytho
 
 ### Projects
 
-Me and my colleagues are working on various research and educational projects. You can read more about them from [**projects**](https://htenkanen.org/projects/) -page.
+Me and my colleagues are working on various research and educational projects. You can read more about them from [projects -sections](https://htenkanen.org/projects/).
 
 ### Contact
 
