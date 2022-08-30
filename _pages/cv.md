@@ -47,6 +47,10 @@ redirect_from:
 
 See [https://htenkanen.org/teaching/](https://htenkanen.org/teaching/).
 
+## Publications
+
+See [https://htenkanen.org/publications/](https://htenkanen.org/publications/).
+
 ## Supervision
 
 **Postdoctoral researchers**
