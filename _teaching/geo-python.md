@@ -1,7 +1,7 @@
 ---
-title: "Geo-Python (2015-)"
+title: "Geo-Python"
 collection: teaching
-type: "MSc course + MOOC (coming in 2023)"
+type: "MSc course + MOOC (coming in 2023), teacher on the course 2015-2018"
 permalink: teaching/Geo-Python
 venue: "University of Helsinki"
 date: 2018-09-01
