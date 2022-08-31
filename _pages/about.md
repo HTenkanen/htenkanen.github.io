@@ -37,4 +37,9 @@ Me and my colleagues are working on various research and educational projects. Y
 
 ### Contact
 
-You can contact me via email at `henrikki.tenkanen [at] aalto.fi`. You can find me at Twitter as `@tenkahen`. 
+In case you are interested in collaborating, or if you would like to work with me and our team, do not hesitate to contact. 
+You can contact me via email at `henrikki.tenkanen [at] aalto.fi`. You can also find me at Twitter as `@tenkahen`. 
+
+### Want to work with us? Open positions
+
+At the moment, we do not have any open positions, but they will be listed here once new positions open.
