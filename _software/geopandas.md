@@ -5,11 +5,8 @@ permalink: software/geopandas_postgis
 ---
 
 
-GeoPandas is an open source Python project and one of the core libraries in Python for doing GIS. 
-The goal of GeoPandas is to make working with geospatial data in Python easier. It combines the capabilities of pandas and shapely, 
-providing geospatial operations in pandas and a high-level interface to multiple geometries to shapely. GeoPandas enables you to easily do operations in python that would otherwise require a spatial database such as PostGIS.
-GeoPandas extends the datatypes used by pandas to allow spatial operations on geometric types while geometric operations are performed by shapely. 
-Geopandas further depends on fiona for file access and matplotlib for plotting.
+GeoPandas is an open source Python project and one of the core libraries in Python for doing GIS and working with geospatial data. 
+The goal of GeoPandas is to make working with geospatial data in Python easier. I have contributed to `geopandas` by adding a new feature `.to_postgis()`, read more below.
 
 ![Geopandas logo](geopandas_logo.png)
 
