@@ -3,7 +3,7 @@ title: "r5py"
 collection: software
 permalink: software/r5py
 ---
-![r5py logo](r5py_blue.svg)
+![r5py logo](r5py_banner.png)
 
 `r5py` is a Python wrapper for the R5 routing analysis engine. It allows users to generate detailed routing analyses or 
 calculate travel time matrices using parallel computing, and integrates seamlessly with Python/Geopandas workflows. 
