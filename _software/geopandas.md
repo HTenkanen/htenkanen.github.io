@@ -1,5 +1,5 @@
 ---
-title: "geopandas: `to_postgis()` method"
+title: "geopandas `to_postgis()` method"
 collection: software
 permalink: software/geopandas_postgis
 ---
@@ -15,7 +15,8 @@ Geopandas further depends on fiona for file access and matplotlib for plotting.
 
 ### Documentation
 
-You can read more about `geopandas` from the [documentation](https://geopandas.org/) of the library.
+You can read more about `geopandas` from the [documentation](https://geopandas.org/) of the library. 
+The documentation for the `to_postgis()` method can be read [from here](https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoDataFrame.to_postgis.html).
 
 ### My role
 
