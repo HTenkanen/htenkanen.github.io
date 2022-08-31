@@ -4,6 +4,7 @@ collection: teaching
 type: "MSc course, Author & teacher of the course (2021- )"
 permalink: teaching/Sustainability-GIS
 venue: "Aalto University" 
+date: 2023-01-01
 ---
 
 ![SDS4SD banner](sustainability-sds-banner.jpg)
