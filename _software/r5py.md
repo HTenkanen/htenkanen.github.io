@@ -2,7 +2,7 @@
 title: "r5py"
 collection: software
 permalink: software/r5py
-date: 2022-09-11
+date: 2022-05-22
 ---
 
 `r5py` is a Python wrapper for the R5 routing analysis engine. It allows users to generate detailed routing analyses or 
