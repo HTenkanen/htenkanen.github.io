@@ -2,6 +2,7 @@
 title: "geopandas `to_postgis()` method"
 collection: software
 permalink: software/geopandas_postgis
+date: 2020-05-05
 ---
 
 
