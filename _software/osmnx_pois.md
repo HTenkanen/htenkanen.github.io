@@ -2,7 +2,7 @@
 title: "OSMnx - Retrieve Point of Interest (POI) data -functionalities"
 collection: software
 permalink: software/osmnx_pois
-year: 2018
+date: 2018-01-01
 ---
 
 `osmnx` is an open source Python project and one of the core libraries in Python for retrieving and working with OpenStreetMap data.  
