@@ -4,6 +4,7 @@ collection: teaching
 type: "MSc course, Author & teacher of the course (2015-2018) "
 permalink: teaching/Automating-GIS-processes
 venue: "University of Helsinki" 
+date: 2018-12-31
 ---
 
 ![AutoGIS banner](AutoGIS_banner.jpg)
