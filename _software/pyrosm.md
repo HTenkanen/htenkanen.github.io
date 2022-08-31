@@ -2,7 +2,7 @@
 title: "pyrosm"
 collection: software
 permalink: software/pyrosm
-date: 2022-08-31
+date: 2020-11-18
 ---
 
 `pyrosm` is an open source Python library for reading OpenStreetMap from Protocolbuffer Binary Format -files (\*.osm.pbf) into Geopandas GeoDataFrames. Pyrosm makes it easy to extract various datasets from OpenStreetMap pbf-dumps including e.g. road networks, buildings, Points of Interest (POI), landuse, natural elements, administrative boundaries and much more. Fully customized queries are supported which makes it possible to parse any kind of data from OSM, even with more specific filters.
