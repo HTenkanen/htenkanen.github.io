@@ -1,11 +1,9 @@
 ---
-title: "Spatial Data Science for Sustainable Development (2021-)"
+title: "Spatial Data Science for Sustainable Development"
 collection: teaching
-type: "MSc course"
+type: "MSc course, Author & teacher of the course (2021- )"
 permalink: teaching/Sustainability-GIS
-venue: "Aalto University"
-date: 2022-10-01
-location: 
+venue: "Aalto University" 
 ---
 
 ![SDS4SD banner](sustainability-sds-banner.jpg)
