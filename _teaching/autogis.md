@@ -1,11 +1,9 @@
 ---
-title: "Automating GIS processes (2015-)"
+title: "Automating GIS processes"
 collection: teaching
-type: "MSc course"
+type: "MSc course, Author & teacher of the course (2015-2018) "
 permalink: teaching/Automating-GIS-processes
-venue: "University of Helsinki"
-date: 2018-10-01
-location: 
+venue: "University of Helsinki" 
 ---
 
 ![AutoGIS banner](AutoGIS_banner.jpg)
