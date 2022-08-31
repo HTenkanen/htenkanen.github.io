@@ -2,6 +2,7 @@
 title: "geopandas `sjoin_nearest()` method"
 collection: software
 permalink: software/geopandas_sjoin_nearest
+date: 2019-08-12
 ---
 
 GeoPandas is an open source Python project and one of the core libraries in Python for doing GIS and working with geospatial data. 
