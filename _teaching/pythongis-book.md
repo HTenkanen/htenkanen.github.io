@@ -4,6 +4,7 @@ collection: teaching
 type: "Textbook"
 permalink: /teaching/pythongis-book
 venue: in progress (estimated arrival in 2023)
+date: 2023-12-31
 ---
 
 ![PythonGIS book](PythonGIS-book-banner.png)
