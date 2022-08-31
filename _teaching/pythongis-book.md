@@ -1,11 +1,10 @@
 ---
-title: "Book: Introduction to Python for Geographic Data Analysis (2023)"
+title: "Book: Introduction to Python for Geographic Data Analysis"
 collection: teaching
 type: "Textbook"
 permalink: /teaching/pythongis-book
-venue: in progress
+venue: in progress (estimated arrival in 2023)
 date: 2023-12-31
-location: 
 ---
 
 ![PythonGIS book](PythonGIS-book-banner.png)
