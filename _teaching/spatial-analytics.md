@@ -1,9 +1,10 @@
 ---
-title: "Spatial Analytics (2021-)"
+title: "Spatial Analytics"
 collection: teaching
 type: "MSc course, Author & teacher of the course (2021- )"
 permalink: /teaching/spatial-analytics
-venue: "Aalto University" 
+venue: "Aalto University"
+date: 2022-10-31
 ---
 
 ![Spatial analytics course](Spatial-analytics-logo.png)
