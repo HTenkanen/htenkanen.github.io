@@ -38,7 +38,7 @@ Me and my colleagues are working on various research and educational projects. Y
 ### Contact
 
 In case you are interested in collaborating, or if you would like to work with me and our team, do not hesitate to contact. 
-You can contact me via email at `henrikki.tenkanen [at] aalto.fi`. You can also find me on Twitter as `@tenkahen` and on Mastodon as <a rel="me" href="https://mastodon.social/@htenkanen">@htenkanen</a>
+You can contact me via email at `henrikki.tenkanen [at] aalto.fi`. You can also find me on Twitter as `@tenkahen` and on Mastodon as <a rel="me" href="https://mastodon.social/@htenkanen">@htenkanen</a>. 
 
 ### Want to work with us? Open positions
 
